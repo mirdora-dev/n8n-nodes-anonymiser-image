@@ -16,3 +16,4 @@ This node processes data locally within your n8n instance and maintains strict c
 ## License
 
 [Apache-2.0](LICENSE)
+ 
